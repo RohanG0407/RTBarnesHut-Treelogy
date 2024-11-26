@@ -2,7 +2,7 @@
 
 import os, sys, random
 
-N=1000000
+N=10000000
 if len(sys.argv) >= 2:
     N = int(sys.argv[1])
 
