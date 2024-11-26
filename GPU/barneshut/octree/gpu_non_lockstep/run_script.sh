@@ -2,9 +2,9 @@
 
 # File paths and nbodies values
 FILES=(
-    "/tmp/TreelogyBenchmarks/treelogy_synthetic_10M.txt" 
-    "/tmp/TreelogyBenchmarks/treelogy_synthetic_25M.txt" 
-    "/home/shay/a/rgangar/RTX/OWLRayTracing/treelogy_synthetic_50M.txt"
+    "../../../../treelogy_synthetic_10M.txt" 
+    "../../../../treelogy_synthetic_25M.txt" 
+    "../../../../treelogy_synthetic_50M.txt"
 )
 NBODIES=(10000000 25000000 50000000)
 
